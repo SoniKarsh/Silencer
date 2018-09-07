@@ -1,12 +1,8 @@
 package silencer.apps.technobugs.com.silencer
 
-/**
- * Created by Heet
- */
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
-
 
 
 class SilencerAppActivity : AppCompatActivity() {
