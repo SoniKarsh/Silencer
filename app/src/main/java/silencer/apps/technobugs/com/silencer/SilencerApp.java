@@ -8,7 +8,7 @@ public class SilencerApp extends Application{
     private final String TAG = SilencerApp.class.getSimpleName();
     private final String SHARED_PREFERENCE_NAME = "silencer.apps.technobugs.com.silencer";
     private SharedPreferences sharedPreferences;
-    static SilencerApp instance;
+    private static SilencerApp instance;
 
 
     @Override
